@@ -1,1 +1,0 @@
-# grupt-c-project
